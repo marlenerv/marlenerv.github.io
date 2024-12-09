@@ -1,0 +1,112 @@
+*{
+    font-family: "Nunito", sans-serif;
+    
+}
+
+header{
+    background-color: #FFDBE9;
+}
+
+.nav-item a{
+    color: #40373A;
+}
+
+#boton-perfil{
+    background-color: #40373A;
+    
+}
+
+.nav-item a:hover{
+    background-color: #40373A;
+    color: white;
+}
+
+#app{
+    color: #D75963;
+}
+
+.boton-cv{
+    background-color: #40373A;
+    font-weight: bold;
+}
+.boton-cv:hover{
+    border: none;
+    background-color: #755D5D;
+    color: #753939;
+}
+.boton-cv a{
+    color: #FFDBE9;
+    text-decoration: none;
+}
+
+
+.cont-hab{
+    background-color: #F7F6E1;
+    color: #D75963;
+}
+.cont-hab h1{
+    font-weight: bold;
+}
+
+.proyectos{
+    margin-top: 5%;
+}
+.proyectos h1{
+    color: #D75963;
+    font-weight: bold;
+}
+
+.testimonios h1{
+    color: #D75963;
+    font-weight: bold;
+}
+
+.card{
+    color: #A32029;
+    border-color: #F7F6E1;
+}
+#proyectos a{
+    padding: 5px 6px;
+    border-radius: 5%;
+    background-color: #F7F6E1;
+    color:#C73178;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cardT{
+    padding: 15px;
+    border: none;
+    background-color: #F2CED8;
+    border-radius: 2%;
+}
+.card-title{
+    color: #D75963;
+    font-weight: bold;
+}
+
+.btn-contacto{
+    background-color: #753939;
+    color: #F7C3C3;
+}
+.btn-contacto:hover{
+    background-color: #F7C3C3;
+    color: #753939;
+}
+
+.footer{
+    background-color: #F2C9E4;
+    color: #753939;
+}
+.footer li a{
+    color: #753939;
+}
+.footer li a:hover{
+    background-color: #F2C9E4;
+}
+
+.footer p a{
+    text-decoration: none;
+    color: #40373A;
+    font-weight: bold;
+}
